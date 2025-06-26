@@ -1,5 +1,4 @@
 # 🦸‍♂️ Desafio Classificador de Nível de Herói
-![Screenshot do Código][text](desafio.js)
 Este projeto simples em JavaScript resolve o desafio de classificar o nível de um herói com base em sua quantidade de experiência (XP). Ele demonstra o uso de variáveis, operadores e estruturas de decisão (`if/else if`) para determinar o nível correto.
 
 ## 🎯 Objetivo do Desafio
